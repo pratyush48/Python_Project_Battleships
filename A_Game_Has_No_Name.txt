@@ -1,0 +1,9 @@
+Team number: 7
+Team Name: A Game Has No Name
+Project name: Battleships
+Team members: (i) Vemuru Srihari (IMT2017045)
+              (ii) Pratyush Nandi (IMT2017518)
+              (iii)  Rahul Murali Shankar (IMT2017033)
+              
+Project Description:
+Battleships: A two player turn based game in a 10x10 grid where players take turns calling co-ordinates to try to sink opponent ships. Made using Tkinter (and pygame for one feature).
